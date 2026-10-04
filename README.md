@@ -1,6 +1,6 @@
 # spendlens
 
-![ci](../../actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/rangy-vs/spendlens/actions/workflows/ci.yml/badge.svg)
 
 Find where your money goes and which subscriptions are quietly billing you, from the CSV your bank already lets you export. **Runs 100% locally: no network calls, no accounts, no dependencies beyond the standard library.**
 
